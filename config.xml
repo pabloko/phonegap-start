@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "com.pablo.tpv"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>TPV</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		TPV Bar Version 1
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://www.facebook.com/pablogarcialazaro"
+		email="pablomorpheo@gmail.com">
+		Pablo Garcia
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
